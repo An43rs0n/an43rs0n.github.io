@@ -2,9 +2,9 @@
 import { pic } from "../anya";
 
 const links = [
-    { text: "Anya", url: "/" },
-    { text: "About", url: "/about" },
-    { text: "Projects", url: "/projects" },
+    { text: "DIO", url: "/" },
+    { text: "吉良吉影", url: "/about" },
+    { text: "桌布", url: "/projects" },
 ];
 </script>
 

@@ -1,8 +1,8 @@
 const pic = {
     uniform: "https://spy-family.net/assets/img/common/header_bottomimg_3.png",
-    icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
+    icecream: "https://i.imgur.com/WIjWhUP.jpg",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
-    casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
+    casual_large: "https://www.kindpng.com/picc/m/138-1386981_anime-face-png-kono-dio-da-png-transparent.png",
     avatars: [],
 };
 
@@ -38,8 +38,10 @@ pic.avatars.push(
 const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
 
 const about = [
-    "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
+    "我的名字叫吉良吉影,33歲。住在杜王町東北部的別墅區一帶,未婚。我在龜友連鎖店服務。",
+    "每天都要加班到晚上8點才能回家。我不抽煙,酒僅止於淺嚐。晚上11點睡,每天要睡足8個小時。",
+    "睡前,我一定喝一杯溫牛奶,然後做20分鐘的柔軟操,上了床,馬上熟睡。", 
+    "一覺到天亮，決不把疲勞和壓力留到第二天。醫生都說我很正常。",
     "",
     "This summer I went to NTNU CSIE Camp to learn how to code.",
     "During the camp, I learned how to: ",
@@ -54,9 +56,9 @@ const about = [
 
 const projects = [
     {
-        name: "My Portfolio Website",
-        description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall02.jpg",
+        name: "酷酷的桌布製作",
+        description: "A portfolio website for myself that I developed in NTNU CSIE Camp.\n 學到檢視可以隱藏式窗的新技能 讚讚",
+        image: "https://i.imgur.com/2aXUNGy.jpg",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
         url: "https://github.com/anya-forger/anya-forger.github.io",
     },
